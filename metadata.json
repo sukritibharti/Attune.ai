@@ -1,0 +1,6 @@
+{
+  "name": "Attune",
+  "description": "Reflective mental wellness and acute response application with guided pacing, grounding, and mood support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
